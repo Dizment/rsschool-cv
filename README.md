@@ -1,3 +1,3 @@
 # rsschool-cv
 
-ttps://dizment.github.io/rsschool-cv/
+https://dizment.github.io/rsschool-cv/
